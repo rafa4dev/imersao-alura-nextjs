@@ -41,8 +41,6 @@ export default function Home() {
     image: 'https://alurakut.vercel.app/capa-comunidade-01.jpg'
   }]);
 
-
-
   const pessoasFavoritas = [
     'juunegreiros',
     'omariosouto',
@@ -51,7 +49,7 @@ export default function Home() {
     'marcobrunodev',
     'felipefialho',
   ];
-  
+
   const [ community, setCommunity] = useState([]); 
 
   useEffect(() => {
