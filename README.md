@@ -121,7 +121,7 @@ Seja bem vindo ao projeto base do Alurakut !!! Passos fundamentais:
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/ppconrado/alurakut'/>](alurakut-six-omega.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/brunoleonardobr/alurakut'/>](https://alurakut-72i9xqrsc-brunoleonardobr.vercel.app/)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Aline-ACS/alurakutACS'/>](https://github.com/Aline-ACS/alurakutACS)
-| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/johnwss/alurakut01'/>](alurakut01-mauve.vercel.app)
+| [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Aline-ACS/alurakutACS'/>](https://github.com/Aline-ACS/alurakutACS)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/moisaporto/alurakut'/>](alurakut-theta-five.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/Nathalia-Urenha/alurakut'/>](alurakut-xi-two.vercel.app)
 | [<img width='500px' src='https://opengraph.githubassets.com/cf9f1db04b6e4e2b7a984902d69b889f717d09cb94b8b4296ffffc16d0c73120/m-menezes/alurakut'/>](https://alurakut-m-menezes.vercel.app/)
